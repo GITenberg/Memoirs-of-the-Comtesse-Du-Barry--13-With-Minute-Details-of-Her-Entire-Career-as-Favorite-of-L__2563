@@ -1,0 +1,30 @@
+_repo: Memoirs-of-the-Comtesse-Du-Barry--13-With-Minute-Details-of-Her-Entire-Career-as-Favorite-of-L__2563
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lamothe-Langon, Etienne-Léon, baron de
+    aliases:
+    - De Lamothe-Langon, Etienne-Léon, baron
+    - Lamothe-Langon, Etienne-Leon, baron de
+    - Mothe-Langon, Etienne-Léon, baron de la
+    birthdate: 1786
+    deathdate: 1864
+    gutenberg_agent_id: '817'
+    url: http://www.gutenberg.org/2009/agents/817
+description: ''
+gutenberg_bookshelf: Biographies
+gutenberg_issued: '2001-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2563'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Du Barry, Jeanne Bécu, comtesse, 1743-1793'
+- !lcc 'DC'
+- GITenberg
+title: "Memoirs of the Comtesse Du Barry\r\nWith Minute Details of Her Entire Career\
+  \ as Favorite of Louis XV"
+url: http://www.gutenberg.org/ebooks/2563
